@@ -3,7 +3,7 @@
 ## 📌 Übersicht
 Es ist ein Suchkampagne fur eine Berliner Sprachschule um mehr zulassungen fur B1 Kurs zu bekommen.
 
-## 🚨 Disclaimer
+## 🚨 Achtung
 Dies ist eine **simulierte Google Ads Kampagne** für mein Portfolio, um meine Fähigkeiten in Kampagnenaufbau, Anzeigenstrategie und Analyse zu zeigen.  
 Alle Daten sind simuliert und stammen nicht von einem Live-Konto.
 
